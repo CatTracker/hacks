@@ -1,9 +1,9 @@
-WEARHACKS
+HACKS
 =========
 
 **About:**
 
-This is the repo for the WearHacks hackathon. Place any work here relating to the event here...
+This is the repo for Device Factory Hacks. This is the place to start if you are participating in a hackathon, or just have a great hack to share. Feel free to make a subdirectory for your hack and add some notes...
 
 ![DF1](https://raw.githubusercontent.com/devicefactory/share/master/media/df1/df1.png)
 
